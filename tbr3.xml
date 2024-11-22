@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="tbr3.xsl"?>
+
+<!--
+	Title: To Be Read (TBR) List
+	Created by: Camille Crawford
+	Date: November 21, 2024
+-->
+
+<!--
+	HELPFUL LINKS
+
+	XML Code vs XSLT Code Examples: https://www.w3schools.com/xml/tryxslt.asp?xmlfile=cdcatalog&xsltfile=cdcatalog
+	XML XPath: https://www.w3schools.com/xml/xml_xpath.asp
+	XML File CD Example: https://www.w3schools.com/xml/cd_catalog.xml
+	XML File Plants Example: https://www.w3schools.com/xml/plant_catalog.xml
+	YouTube XML Tutorial: https://www.youtube.com/watch?v=KeLiQXqVgMI
+-->
+
+<tbr>
+	<book>
+		<title>The Color of Law: A Forgotten History of How Our Government Segregated America</title>
+		<author>Richard Rothstein</author>
+		<fiction>nonfiction</fiction>
+		<have>Audiobook</have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Meaty</title>
+		<author>Samantha Irby</author>
+		<fiction>nonfiction</fiction>
+		<have>Audiobook</have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Leave the World Behind</title>
+		<author>Rumaan Alam</author>
+		<fiction>fiction</fiction>
+		<have>Physical</have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>The 1619 Project: A New Origin Story</title>
+		<author>Nikole Hannah-Jones</author>
+		<fiction>nonfiction</fiction>
+		<have>Audiobook</have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Legendborn</title>
+		<author>Tracy Deonn</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Ace of Spades</title>
+		<author>Faridah Àbíké-Íyímídé</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Medical Apartheid</title>
+		<author>Harriet A. Washington</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Revolutionary Suicide</title>
+		<author>Huey P. Newton</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Arabian Nights</title>
+		<author>Scheherazade</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>An Indiginous People's History of the United States</title>
+		<author>Roxanne Dunbar-Ortiz</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>House of Leaves</title>
+		<author>Mark Z. Danielewski</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>The Mis-Education of the Negro</title>
+		<author>Carter G. Woodson</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Love in the Time of Cholera</title>
+		<author>Gabriel García Márquez</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Killing Rage: Ending Racism</title>
+		<author>bell hooks</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Children of Virtue and Vengeance</title>
+		<author>Tomi Adeyemi</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>The Seven Husbands of Evelyn Hugo</title>
+		<author>Taylor Jenkins Reid</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>The Secret Life of Groceries</title>
+		<author>Benjamin Lorr</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>The Body Keeps the Score</title>
+		<author>Bessel van der Kolk</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Gulp: Adventures on the Alimentary Canal</title>
+		<author>Mary Roach</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Stiff: The Curious Lives of Human Cadavers</title>
+		<author>Mary Roach</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Tess of the D'Urbervilles</title>
+		<author>Thomas Hardy</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>The Butcher and the Wren</title>
+		<author>Alaina Urquart</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Paradise Lost</title>
+		<author>John Milton</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>The Lottery</title>
+		<author>Shirley Jackson</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Brave New World</title>
+		<author>Aldous Huxley</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Sula</title>
+		<author>Toni Morrison</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Caste: The Origins of Our Discontents</title>
+		<author>Isabel Wilkerson</author>
+		<fiction>nonfiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>The Jungle</title>
+		<author>Upton Sinclair</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Gone Girl</title>
+		<author>Gillian Flynn</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title>Sharp Objects</title>
+		<author>Gillian Flynn</author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+	
+	<book>
+		<title></title>
+		<author></author>
+		<fiction>fiction</fiction>
+		<have></have>
+		<genre></genre>
+	</book>
+</tbr>
