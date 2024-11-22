@@ -1,21 +1,4 @@
-<?xml version="1.0"?>
-<?xml-stylesheet type="text/xsl" href="tbr3.xsl"?>
-
-<!--
-	Title: To Be Read (TBR) List
-	Created by: Camille Crawford
-	Date: November 21, 2024
--->
-
-<!--
-	HELPFUL LINKS
-
-	XML Code vs XSLT Code Examples: https://www.w3schools.com/xml/tryxslt.asp?xmlfile=cdcatalog&xsltfile=cdcatalog
-	XML XPath: https://www.w3schools.com/xml/xml_xpath.asp
-	XML File CD Example: https://www.w3schools.com/xml/cd_catalog.xml
-	XML File Plants Example: https://www.w3schools.com/xml/plant_catalog.xml
-	YouTube XML Tutorial: https://www.youtube.com/watch?v=KeLiQXqVgMI
--->
+<?xml version="1.0" encoding="UTF-8"?>
 
 <tbr>
 	<book>
