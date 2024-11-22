@@ -17,7 +17,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <html>
 	<body>
 	<xsl:for-each select="tbr/book">
-		<h1>To Be Read List</h1>
+		<h1 align="center">To Be Read List</h1>
 		<table border="1">
 			<tr bgcolor="#e5fce2">
 				<th style="text-align:left">Title</th>
